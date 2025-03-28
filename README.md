@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am a passionate full-stack developer eager to contribute my utmost! <br>👯 I specialize in developing applications with .NET Core<br>🤝 I aim to support companies that require my services by reducing their operational times and resource costs<br>🌱 I am delving deeper into algorithms to optimize systems<br><br>Contact Me<br><br>Email: developerpjlc@gmail.com<br>
+Passionate full-stack developer with experience in building applications using .NET Core. My goal is to optimize business systems by reducing operational time and resource costs. I specialize in web development and API development.
 
 
 
